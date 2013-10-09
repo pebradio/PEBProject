@@ -1,7 +1,7 @@
 PEBProject
 ==========
 
-##  Achtung: Dies ist ein Proof-of-concept, kein fertiges Produkt!
+###  Achtung: Dies ist ein Proof-of-concept, kein fertiges Produkt!
 
 
 Die PEB-App kann für Android Geräte zusammen mit der Pebble-Uhr dazu verwendet werden, 
